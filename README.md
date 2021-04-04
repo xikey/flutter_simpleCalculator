@@ -2,7 +2,7 @@ Flutter Calculator
 
 Has a responsive UI based on percentages.
 
-Performs the 4 basic operations (+, -, *, /).
+Performs  operations (+, -, *, /, %).
 
 Package(s) Used:
 
